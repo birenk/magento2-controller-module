@@ -13,6 +13,6 @@ Then you'll need to modify `app/etc/config.php` to activate the module. It shoul
         'modules' =>
         array (
             ...
-            'Biren_HelloWorld' => 1,
+            'Birenk_HelloWorld' => 1,
             ),
           );

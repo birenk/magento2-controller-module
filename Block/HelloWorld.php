@@ -1,5 +1,5 @@
 <?php
-namespace Ashsmith\HelloWorld\Block;
+namespace Birenk\HelloWorld\Block;
 class HelloWorld extends \Magento\Framework\View\Element\Template
 {
 }
